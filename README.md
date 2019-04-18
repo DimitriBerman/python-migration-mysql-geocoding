@@ -20,4 +20,4 @@ pip install -r requirements.txt
 
 #run the migration itself
 py geolocate_usermate_update.py
-```# python-migration-mysql-geocoding
+# python-migration-mysql-geocoding
